@@ -1,6 +1,6 @@
 # Goofy-RI3D
 
-Writeup: https://docs.google.com/document/d/1H...  
+Writeup: https://docs.google.com/document/d/1HdKqENHWh6WTbPTh926jqvDW3yEPQfKpOuxzz5v5FYk/edit
 
 VEXforum post: https://www.vexforum.com/t/448x-21s-6...  
 
